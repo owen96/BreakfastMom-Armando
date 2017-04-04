@@ -1,5 +1,7 @@
 # Red, White, and Blueberry Fruit Salad
 
+![http://images.media-allrecipes.com/userphotos/560x315/428409.jpg](http://images.media-allrecipes.com/userphotos/560x315/428409.jpg)
+
 **Short Description:** This recipe will teach you how to make a fruit salad in the spirit of the stars and stripes. You will find this dish to be incredibly simple and flavorful!
 
 ## Ingredients

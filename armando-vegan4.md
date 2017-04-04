@@ -1,5 +1,7 @@
 # Vegan Crepes
 
+![http://images.media-allrecipes.com/userphotos/560x315/2243167.jpg](http://images.media-allrecipes.com/userphotos/560x315/2243167.jpg)
+
 **Short Description**: This recipe will teach you how to make vegan crepes the right way! 
 
 ## Ingredients

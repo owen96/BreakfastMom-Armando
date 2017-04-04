@@ -1,5 +1,7 @@
 # Avocado Toast
 
+![http://images.media-allrecipes.com/userphotos/560x315/3605756.jpg](http://images.media-allrecipes.com/userphotos/560x315/3605756.jpg)
+
 **Short Description:** This recipe does away with the need for butter on your toast at breakfast. Avocado offers greater benefits to your health, and contains the same fattening nutrients. 
 
 ## Ingredients

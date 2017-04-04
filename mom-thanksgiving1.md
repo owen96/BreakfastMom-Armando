@@ -1,5 +1,7 @@
 # Sweet Potato Turkey Hash
 
+![http://images.media-allrecipes.com/userphotos/560x315/914173.jpg](http://images.media-allrecipes.com/userphotos/560x315/914173.jpg)
+
 **Short Description:** This recipe will teach you how to cook sweet potato hash. This dish is great for a Thanksgiving breakfast to hold over your appetite!
 
 ## Ingredients

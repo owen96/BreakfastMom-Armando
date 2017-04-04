@@ -1,0 +1,6 @@
+fil = new Array();
+fil["0"]= "armando-recipes-concept.html@@@Recipes for Armando@@@Armando, this website contains a bunch of excellent recipes that are easy to prepare and totally vegan friendly!...";
+fil["1"]= "armando-vegan1.html@@@Strawberry Oatmeal Breakfast Smoothie@@@This recipe will teach you how to whip up a delicious, filling smoothie for the morning hours. This recipe is great because it is quick, easy, and perfect when you\u2019re on the go...";
+fil["2"]= "armando-vegan2.html@@@Avocado Toast@@@Short Description: This recipe does away with the need for butter on your toast at breakfast. Avocado offers greater benefits to your health, and contains the same fattening nutrients. 4 slices...";
+fil["3"]= "armando-vegan3.html@@@Vegan Banana Bread@@@Short Description : This recipe will instruct you on making excellent vegan-friendly banana bread. 2 1/2 cups pecan halves 1 1/2 cups rolled oats 6 large over-ripe bananas, mashed 1* cup cane sugar 1...";
+fil["4"]= "armando-vegan4.html@@@Vegan Crepes@@@Short Description : This recipe will teach you how to make vegan crepes the right way! 1/2 cup soy milk 1/2 cup water 1/4 cup melted soy margarine 1 tablespoon turbinado sugar 2 tablespoons maple...";

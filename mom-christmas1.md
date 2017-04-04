@@ -1,4 +1,7 @@
 # Eggnog French Toast
+
+![http://images.media-allrecipes.com/userphotos/560x315/779980.jpg](http://images.media-allrecipes.com/userphotos/560x315/779980.jpg)
+
 **Short Description:** These steps will teach you how to make French toast with that traditional Christmas time eggnog flavor!
 ## Ingredients
 

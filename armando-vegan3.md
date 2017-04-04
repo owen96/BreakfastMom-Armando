@@ -1,5 +1,7 @@
 # Vegan Banana Bread
 
+![http://images.media-allrecipes.com/userphotos/250x250/02/85/89/2858914.jpg](http://images.media-allrecipes.com/userphotos/250x250/02/85/89/2858914.jpg)
+
 **Short Description**: This recipe will instruct you on making excellent vegan-friendly banana bread.
 
 ## Ingredients
