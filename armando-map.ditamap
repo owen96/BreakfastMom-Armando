@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breakfast Recipes for Armando</title>
+ <topicmeta>
+  <author>Owen Forrester</author>
+ </topicmeta>
+ 
+ <topicref href="armando-recipes-concept.dita"/>
+ <topicref href="armando-vegan1.dita"/>
+ <topicref href="armando-vegan2.md" format="markdown">
+  <topicmeta>
+   <shortdesc>Toast with a delicious avocado spread</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topicref href="armando-vegan3.md" format="markdown">
+  <topicmeta>
+   <shortdesc>Enjoy fluffy vegan-friendly banana bread</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topicref href="armando-vegan4.md" format="markdown">
+  <topicmeta>
+   <shortdesc>Prepare an exquisite French dish vegan style!</shortdesc>
+  </topicmeta>
+ </topicref>
+ 
+ 
+</map>

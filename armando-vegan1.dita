@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lb5_rrm_lz">
+    <title>Strawberry Oatmeal Breakfast Smoothie</title>
+    <shortdesc>This recipe will teach you how to whip up a delicious, filling smoothie for the morning hours. This recipe is great because it is quick, easy, and perfect when you’re on the go.</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>1 cup soy milk</li>
+                <li>1/2 cup rolled oats</li>
+                <li>1 banana, frozen into chunks</li>
+                <li>14 frozen strawberries</li>
+                <li>1/2 teaspoon vanilla extract</li>
+                <li>1 1/2 teaspoons white sugar</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>This drink will take you <u>5 minutes</u> to prepare.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In a blender, combine soy milk, oats, banana and strawberries. Add vanilla and sugar if desired. Blend until smooth. Pour into glasses and serve.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

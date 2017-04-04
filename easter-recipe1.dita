@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ys5_q1j_kz">
+    <title>Easter Baked Brunch Omelette</title>
+    <shortdesc>The following instructions will teach you how to make a delicious omelette very fit for an Easter breakfast!</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>1/2 (1 pound) loaf white bread, cut into cubes</li>
+                <li>1 1/2 pounds Cheddar cheese, shredded</li>
+                <li>1 cup cubed cooked ham</li>
+                <li>8 eggs</li>
+                <li>1 pinch salt</li>
+                <li>2 cups milk</li>
+                <li>1 dash hot pepper sauce, or to taste</li>
+                <li>1/4 cup chopped green onion</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>This dish will require <u>1 hour and 15 minutes</u> of your time.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking pan.</cmd>
+            </step>
+            <step>
+                <cmd>Place half of the bread cubes on bottom of baking pan. Sprinkle with half of the ham and then half of the cheese; repeat.</cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl, beat together eggs, milk, salt, hot sauce and green onions. Pour egg mixture into pan.</cmd>
+            </step>
+            <step>
+                <cmd>Place pan on top of a baking sheet with a rim and place in oven. Pour water into baking sheet and bake for 60 minutes, or until eggs have set.</cmd>
+            </step>
+        </steps>
+         </taskbody>
+</task>

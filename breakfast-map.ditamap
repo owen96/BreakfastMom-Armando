@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breakfast Recipes for Mom</title>
+ <topicmeta>
+  <author>Owen Forrester</author>
+ </topicmeta>
+ 
+ <topicref href= "mom-recipes-concept.dita"/>
+ <topicref href="easter-recipe1.dita"/>
+ <topicref href="mom-christmas1.md" format="markdown">
+ <topicmeta>
+  <shortdesc>A meal to enjoy while opening presents Christmas morning</shortdesc>
+ </topicmeta>
+ </topicref>
+ <topicref href="mom-fourthofjuly.md" format="markdown">
+  <topicmeta>
+   <shortdesc>A dish for the American fruit lover.</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topicref href="mom-thanksgiving1.md" format="markdown">
+  <topicmeta>
+   <shortdesc>Hash browns with a turkey twist! Who couldn't be thankful for this meal?</shortdesc>
+  </topicmeta>
+ </topicref>
+ 
+ </map>
