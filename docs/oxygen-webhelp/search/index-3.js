@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["rch"]="1*0";
 w["re"]="1*26";
 w["recipe"]="1*52,2*26,3*27,4*27";
 w["recipes"]="0*58";
@@ -12,13 +13,12 @@ w["salt"]="2*1,3*1,4*1";
 w["same"]="2*26";
 w["satisfy"]="0*0";
 w["scoop"]="2*0";
-w["sea"]="3*0";
-w["search"]="0*0,1*0,2*0,3*0,4*0";
+w["sea"]="1*0,3*0";
+w["search"]="0*0,2*0,3*0,4*0";
 w["serve"]="1*0";
 w["short"]="2*30,3*30,4*30";
 w["side"]="4*0";
-w["skil"]="4*0";
-w["skillet"]="4*2";
+w["skillet"]="4*3";
 w["skillet’s"]="4*0";
 w["slices"]="2*26";
 w["smooth"]="1*0";
@@ -44,6 +44,7 @@ w["taste"]="0*0";
 w["teach"]="1*26,4*26";
 w["teaspoon"]="1*0,2*3,3*0,4*0";
 w["teaspoons"]="1*0,2*0";
+w["th"]="3*0";
 w["them"]="0*0";
 w["thick"]="3*0";
 w["time"]="4*0";
