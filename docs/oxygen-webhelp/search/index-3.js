@@ -3,7 +3,7 @@
 w["rch"]="1*0";
 w["re"]="1*26";
 w["recipe"]="1*52,2*26,3*27,4*27";
-w["recipes"]="0*58";
+w["recipes"]="0*63";
 w["require"]="4*0";
 w["right"]="4*26";
 w["ripe"]="3*26";
@@ -24,6 +24,7 @@ w["slices"]="2*26";
 w["smooth"]="1*0";
 w["smoothie"]="1*56";
 w["some"]="4*0";
+w["source"]="0*5";
 w["soy"]="1*1,4*54";
 w["spoon"]="3*0";
 w["spread"]="2*0";
